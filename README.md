@@ -78,7 +78,7 @@ DT-<jenis>-<nomor urut>
 
 Contoh: `DT-S-01`, `DT-G-03`, `DT-P-02`.
 
-## Cara menyitir
+## Cara mengutip
 
 ```
 Indonesia Digital Twin Community, Pokja 1. (TAHUN).
